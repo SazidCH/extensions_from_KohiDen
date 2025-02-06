@@ -5,11 +5,7 @@ just paste this into your anime repo
 https://raw.githubusercontent.com/Kohi-den/extensions/main/index.min.json
 ```
 
-## Support Server
 
-Join the [Discord](https://discord.gg/vut4mmXQzU) for updates and announcements
-
-and please check the discord BEFORE making an issue
 
 ## Contributing
 
